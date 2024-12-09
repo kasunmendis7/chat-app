@@ -26,7 +26,7 @@
                         <input type="submit" placeholder="Login to Chat">
                     </div>
             </form>
-            <div class="link">Don't have an account? <a href="">SignUp Now</a></div>
+            <div class="link">Don't have an account? <a href="index.php">SignUp Now</a></div>
         </section>
     </div>
     <script src="javascript/pass-show-hide.js"></script>
